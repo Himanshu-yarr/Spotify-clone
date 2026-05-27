@@ -44,7 +44,7 @@ spotify-clone/
 
 ## 🌐 Live Demo
 
-spotify-clone33.netlify.app
+https://spotify-clone33.netlify.app/
 
 ---
 
